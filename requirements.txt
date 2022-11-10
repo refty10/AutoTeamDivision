@@ -1,0 +1,4 @@
+discord.py==1.7.3
+html2image==2.0.1
+Markdown==3.3.7
+py-gfm==1.0.2
